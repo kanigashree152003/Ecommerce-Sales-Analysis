@@ -106,7 +106,7 @@ Enables better inventory and business planning
 
 ### Customer Segmentation
 
-![Customer Segmentation](visuals/Customer_Segmentation.png)
+![Customer Segmentation](visuals/Customer_segmentation.png)
 
 ### Sales Heatmap (City vs Season)
 
