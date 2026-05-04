@@ -34,8 +34,8 @@ This project performs end-to-end analysis of retail transaction data to uncover 
 ## Dataset Access
 
 Download dataset from:
-Cleaned retail dataset - https://drive.google.com/file/d/1fTTiPP1tuGnYhPe6ywk2lA4fZOna7ALC/view?usp=drive_link
-Cleaned transaction dataset - https://drive.google.com/file/d/1FgV2Wjsu8jw1pLaW9q2KNOZCbi6wHAqb/view?usp=drive_link
+* Cleaned retail dataset - https://drive.google.com/file/d/1fTTiPP1tuGnYhPe6ywk2lA4fZOna7ALC/view?usp=drive_link
+* Cleaned transaction dataset - https://drive.google.com/file/d/1FgV2Wjsu8jw1pLaW9q2KNOZCbi6wHAqb/view?usp=drive_link
 
 ---
 
