@@ -150,13 +150,6 @@ git clone https://github.com/kanigashree152003/Ecommerce-Sales-Analysis.git
 cd Ecommerce-Sales-Analysis
 pip install -r requirements.txt
 ```
-
-Open notebook:
-
-```
-notebooks/
-```
-
 ---
 
 ## Author
